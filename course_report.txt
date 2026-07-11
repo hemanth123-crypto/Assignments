@@ -1,0 +1,14 @@
+Course Enrollment Report
+--------------------------
+Ravi enrolled in Python Fee:5000 Type:Programming Course
+Priya enrolled in Java Fee:6000 Type:Programming Course
+Arun enrolled in Linux Fee:4000 Type:System Course
+Divya enrolled in Python Fee:5000 Type:Programming Course
+Sanjay enrolled in Java Fee:6000 Type:Programming Course
+--------------------------
+Course Enrollments:
+Python : 2
+Java   : 2
+Linux  : 1
+--------------------------
+Total Revenue: 26000
