@@ -1,0 +1,8 @@
+Library Book Report
+----------------------
+Low Stock Books:
+101 Linux 5 Status:Medium Stock Status:Medium Stock
+102 Python 8 Status:High Stock Status:High Stock
+103 Java 3 Status:Medium Stock Status:Medium Stock
+104 DataScience 6 Status:High Stock Status:High Stock
+105 Networking 2 Status:Low Stock Status:Low Stock
